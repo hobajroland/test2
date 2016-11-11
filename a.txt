@@ -3,3 +3,4 @@ masodik
 harmadik
 negyedik
 otodik hatodik
+otodik hetedik
